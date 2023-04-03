@@ -6,7 +6,7 @@ Simple Calendar Application that allows a user to save events for each hour of t
 
 ## Installation
 
-Click here to visit the Work Day Scheduler. Try it out! 
+Click [here](https://sararosebud.github.io/Workday-Scheduler/) to visit the Work Day Scheduler. Try it out! 
 
 ## Usage
 
