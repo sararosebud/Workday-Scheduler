@@ -30,14 +30,10 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-
-
-    ```md
-    ![scheduler](/Assets/images/workdaysched%20-%20Copy.png)
-    ![colorcoding](/Assets/images/timecolorcoding.png)
-    ![stored events](/Assets/images/storedevent.png)
-    ![after refresh](/Assets/images/afterrefresh.png)
-    ```
+![A user clicks on slots on the color-coded calendar and edits the events](Assets\images\workdaysched.png)
+![saved events](Assets\images\storedevent.png)
+![color coding](Assets\images\timecolorcoding.png)
+![after refresh](Assets\images\afterrefresh.png)
 
 ## Credits
 UTA Bootcamp Instruction Modules
